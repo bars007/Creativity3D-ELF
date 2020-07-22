@@ -1,4 +1,4 @@
-###Leandro's Marlin Firmware
+# Leandro's Marlin Firmware
 
 Unzip and open in VSCode with the Platform.io plugin.
 This firmware is optimized with a BLTouch. It uses the highspeed probing for it.

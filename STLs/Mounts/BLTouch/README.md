@@ -1,4 +1,4 @@
-###STL Files concerning the printer. BLTouch folder.
+# STL Files concerning the printer. BLTouch folder.
 
 These STL Files contain mountings for the popular BLTouch probe.
 
